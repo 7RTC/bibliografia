@@ -50,7 +50,7 @@ public class Bibliografia {
 
         Bibliografia bibliografia = new Bibliografia(artigos);
         // Na hora que esse método estiver imprimindo corretamente para todos
-        // os tipos de artigo o exercício estará pronto.
+        // os tipos de artigos o exercício estará pronto.
         System.out.println(bibliografia);
     }
 
